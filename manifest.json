@@ -1,0 +1,9 @@
+{
+  "name": "Text Transformer",
+  "version": "1.0",
+  "description": "Tool to transform texts with the following features: Capitalize, Decapitalize. And even more, you can copy straight to your clipboard.",
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "manifest_version": 2
+}
